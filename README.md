@@ -54,10 +54,6 @@ Após a execução, você verá a tabela `api_data` criada no banco de dados SQL
 - Implementar uma solução de agendamento (ex.: Airflow) para automatizar a execução.
 - Utilizar um banco de dados em nuvem para armazenar os dados.
 
-## Contribuições
 
-Sinta-se à vontade para abrir um PR ou relatar problemas. Toda contribuição é bem-vinda!
 
-## Licença
 
-Este projeto está sob a licença MIT. Consulte o arquivo [LICENSE](LICENSE) para mais detalhes.
